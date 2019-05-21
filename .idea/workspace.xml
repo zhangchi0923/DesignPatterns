@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="997326d3-234c-457a-b15b-e3d0c322f162" name="Default Changelist" comment="" />
+    <list default="true" id="997326d3-234c-457a-b15b-e3d0c322f162" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/Strategy/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/Strategy/CatHeightComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/Strategy/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/Strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/Strategy/Sorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/cn/zhangchi/singleton/Mgr01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/cn/zhangchi/singleton/Mgr01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/cn/zhangchi/singleton/Mgr05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/cn/zhangchi/singleton/Mgr05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/cn/zhangchi/singleton/Mgr07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/cn/zhangchi/singleton/Mgr07.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,61 +28,51 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="187">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr05.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/DogSpeedComparator.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/CatHeightComparator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr06.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/Dog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-              <folding>
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#272#273#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr02.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/Sorter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="31" column="66" lean-forward="true" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
+            <state relative-caret-position="306">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr07.java">
+        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="85">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -83,6 +85,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,6 +102,12 @@
         <option value="$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr01.java" />
         <option value="$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr07.java" />
         <option value="$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr05.java" />
+        <option value="$PROJECT_DIR$/src/cn/zhangchi/Strategy/Cat.java" />
+        <option value="$PROJECT_DIR$/src/cn/zhangchi/Strategy/CatHeightComparator.java" />
+        <option value="$PROJECT_DIR$/src/cn/zhangchi/Strategy/Sorter.java" />
+        <option value="$PROJECT_DIR$/src/cn/zhangchi/Strategy/Dog.java" />
+        <option value="$PROJECT_DIR$/src/cn/zhangchi/Strategy/Main.java" />
+        <option value="$PROJECT_DIR$/src/cn/zhangchi/Strategy/DogSpeedComparator.java" />
       </list>
     </option>
   </component>
@@ -104,6 +115,7 @@
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -137,6 +149,13 @@
               <item name="zhangchi" type="462c0819:PsiDirectoryNode" />
               <item name="singleton" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zhangchi" type="462c0819:PsiDirectoryNode" />
+              <item name="Strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -146,6 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -157,7 +177,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.zhangchi.Strategy" />
       <recent name="cn.zhangchi.singleton" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.zhangchi.Strategy" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -172,13 +196,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Mgr07">
-    <configuration name="Mgr02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.zhangchi.singleton.Mgr02" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.zhangchi.Strategy.Main" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.zhangchi.singleton.*" />
+          <option name="PATTERN" value="cn.zhangchi.Strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Mgr07" />
         <item itemvalue="Application.Mgr06" />
         <item itemvalue="Application.Mgr05" />
         <item itemvalue="Application.Mgr04" />
-        <item itemvalue="Application.Mgr02" />
       </list>
     </recent_temporary>
   </component>
@@ -258,16 +282,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558408574992</updated>
-      <workItem from="1558408581644" duration="7121000" />
+      <workItem from="1558408581644" duration="10605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7121000" />
+    <option name="totallyTimeSpent" value="10605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
@@ -373,6 +396,44 @@
           <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/CatHeightComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/Sorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/DogSpeedComparator.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
