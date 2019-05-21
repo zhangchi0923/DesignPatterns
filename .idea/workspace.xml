@@ -2,29 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="997326d3-234c-457a-b15b-e3d0c322f162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/AK47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Broom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/MagicFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/MagicStick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/ModernFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Mushroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Weapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Broom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/SimpleVehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/AK47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/AbstractFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Bread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Broom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/MagicFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/MagicStick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/ModernFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Mushroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Weapon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Broom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Movable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Plane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/SimpleVehicleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/Strategy/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/Strategy/CatHeightComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/Strategy/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/Strategy/DogSpeedComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/Strategy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/Strategy/Sorter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/singleton/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr07.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +55,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/AK47.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-              <folding>
-                <element signature="e#81#82#0" expanded="true" />
-                <element signature="e#131#132#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Bread.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Bread.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
@@ -62,8 +67,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
@@ -72,16 +77,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Car.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Car.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Food.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Food.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
@@ -90,10 +104,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Mushroom.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Mushroom.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
               <folding>
                 <element signature="e#110#111#0" expanded="true" />
                 <element signature="e#143#144#0" expanded="true" />
@@ -103,10 +117,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Broom.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Broom.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
               <folding>
                 <element signature="e#103#104#0" expanded="true" />
                 <element signature="e#129#130#0" expanded="true" />
@@ -116,7 +130,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/MagicStick.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/MagicStick.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
@@ -129,7 +143,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/ModernFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/ModernFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
@@ -146,7 +160,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/MagicFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/MagicFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
@@ -215,7 +229,15 @@
         <option value="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/ModernFactory.java" />
         <option value="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/MagicFactory.java" />
         <option value="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Main.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
@@ -243,6 +265,19 @@
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -393,7 +428,7 @@
       <workItem from="1558408581644" duration="11738000" />
       <workItem from="1558429241812" duration="109000" />
       <workItem from="1558435453834" duration="992000" />
-      <workItem from="1558443785282" duration="3977000" />
+      <workItem from="1558443785282" duration="4838000" />
     </task>
     <task id="LOCAL-00001" summary="添加策略模式样例">
       <created>1558427703838</created>
@@ -402,11 +437,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558427703838</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="介绍工厂模式和抽象工厂模式">
+      <created>1558448789983</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558448789983</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16816000" />
+    <option name="totallyTimeSpent" value="17677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -417,6 +459,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Learn" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
@@ -444,17 +487,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加策略模式样例" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加策略模式样例" />
+    <MESSAGE value="介绍工厂模式和抽象工厂模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="介绍工厂模式和抽象工厂模式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/singleton/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr03.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/singleton/Mgr03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
@@ -465,28 +509,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr04.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/singleton/Mgr04.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr02.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/singleton/Mgr02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="31" column="66" lean-forward="true" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr07.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/singleton/Mgr07.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr06.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/singleton/Mgr06.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
@@ -499,63 +543,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr05.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/singleton/Mgr05.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/DogSpeedComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Strategy/DogSpeedComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/Dog.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Strategy/Dog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/Cat.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Strategy/Cat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/singleton/Mgr01.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/singleton/Mgr01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/CatHeightComparator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Strategy/CatHeightComparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Strategy/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/Strategy/Sorter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Strategy/Sorter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/SimpleVehicleFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/FactoryMethod/SimpleVehicleFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
@@ -568,28 +612,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Movable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/FactoryMethod/Movable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/FactoryMethod/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/CarFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/FactoryMethod/CarFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Car.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/FactoryMethod/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
@@ -600,7 +644,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Plane.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/FactoryMethod/Plane.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
@@ -611,7 +655,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/FactoryMethod/Broom.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/FactoryMethod/Broom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
@@ -622,28 +666,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Weapon.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Weapon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Vehicle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/AbstractFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/AbstractFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/AK47.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/AK47.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
@@ -654,24 +698,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Food.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Food.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Mushroom.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Mushroom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
           <folding>
             <element signature="e#110#111#0" expanded="true" />
             <element signature="e#143#144#0" expanded="true" />
@@ -679,10 +716,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Broom.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Broom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="51" lean-forward="true" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
           <folding>
             <element signature="e#103#104#0" expanded="true" />
             <element signature="e#129#130#0" expanded="true" />
@@ -690,7 +727,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/MagicStick.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/MagicStick.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
@@ -701,7 +738,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/ModernFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/ModernFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
@@ -716,7 +753,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/MagicFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/MagicFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
@@ -731,7 +768,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Bread.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Bread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
@@ -742,10 +786,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/AbstractFactory/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
