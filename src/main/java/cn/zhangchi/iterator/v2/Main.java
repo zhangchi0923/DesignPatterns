@@ -1,6 +1,13 @@
 package cn.zhangchi.iterator.v2;
 
 public class Main {
+    public static void main(String[] args) {
+        LinkedList list = new LinkedList();
+        list.add(1);
+        list.add(3);
+        list.add(2);
+        System.out.println(list);
+    }
 }
 class LinkedList{
     private class Node{
@@ -26,5 +33,14 @@ class LinkedList{
             tail.next = n;
         }
         size++;
+    }
+
+    @Override
+    public String toString() {
+        return "LinkedList{" +
+                "head=" + head +
+                ", tail=" + tail +
+                ", size=" + size +
+                '}';
     }
 }

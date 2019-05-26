@@ -1,8 +1,14 @@
 package cn.zhangchi.iterator.v1;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
-
+        ArrayList arr = new ArrayList();
+        arr.add(1);
+        arr.add(3);
+        arr.add(2);
+        System.out.println(arr);
     }
 }
 
@@ -19,5 +25,12 @@ class ArrayList{
         }
         objects[index] = o;
         index++;
+    }
+
+    @Override
+    public String toString() {
+        return "ArrayList{" +
+                "objects=" + Arrays.toString(objects) +
+                '}';
     }
 }
