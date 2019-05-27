@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="997326d3-234c-457a-b15b-e3d0c322f162" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassTransformerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassWriteTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/MyClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/iterator/v3/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/iterator/v3/Collection_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/iterator/v3/Iterator_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/iterator/v3/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/iterator/v3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/visitor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/CommandChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/Content.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/CopyCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/DeleteCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/InsertCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/dp/cor/v2/Servlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zhangchi/iterator/v1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/iterator/v1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zhangchi/iterator/v2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/iterator/v2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zhangchi/proxy/v7/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/proxy/v7/Tank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zhangchi/spring/v2/TimeProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zhangchi/spring/v2/TimeProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zhangchi/dp/cor/Main.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,89 +30,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/visitor/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/Command.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
-              <folding>
-                <element signature="class#Cpu#0" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#287#288#0" expanded="true" />
-                <element signature="class#Memory#0" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#555#556#0" expanded="true" />
-                <element signature="e#426#427#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-                <element signature="class#Board#0" />
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#732#733#0" expanded="true" />
-                <element signature="e#567#568#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
-                <element signature="e#922#923#0" expanded="true" />
-                <element signature="e#955#956#0" expanded="true" />
-                <element signature="e#1030#1031#0" expanded="true" />
-                <element signature="e#1065#1066#0" expanded="true" />
-                <element signature="e#1138#1139#0" expanded="true" />
-                <element signature="e#1172#1173#0" expanded="true" />
-                <element signature="class#CorpVisitor#0" />
-                <element signature="e#1301#1302#0" expanded="true" />
-                <element signature="e#1344#1345#0" expanded="true" />
-                <element signature="e#1409#1410#0" expanded="true" />
-                <element signature="e#1444#1445#0" expanded="true" />
-                <element signature="e#1518#1519#0" expanded="true" />
-                <element signature="e#1552#1553#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/T1.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/CopyCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding>
-                <element signature="e#88#89#0" expanded="true" />
-                <element signature="e#111#112#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassPrinter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/InsertCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#visit#0;class#ClassPrinter#0" />
-                <element signature="method#visitField#0;class#ClassPrinter#0" />
-                <element signature="method#visitMethod#0;class#ClassPrinter#0" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassWriteTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/DeleteCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassTransformerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="153">
+              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/CommandChain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -128,36 +87,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/TimeProxy.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/Content.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/Tank.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-              <folding>
-                <element signature="e#68#69#0" expanded="true" />
-                <element signature="e#104#105#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/MyClassLoader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-              <folding>
-                <element signature="e#117#118#0" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -178,18 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Bread.java" />
-        <option value="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Car.java" />
-        <option value="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Mushroom.java" />
-        <option value="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Broom.java" />
-        <option value="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/MagicStick.java" />
-        <option value="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/ModernFactory.java" />
-        <option value="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/MagicFactory.java" />
-        <option value="$PROJECT_DIR$/src/cn/zhangchi/AbstractFactory/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/spring/Driver.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/spring/Tank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/spring/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/dp/cor/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/Observer/v1/Child.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/Observer/v1/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/Observer/v2/Main.java" />
@@ -228,7 +149,19 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/MyClassLoader.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassWriteTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/Tank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/TimeProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassTransformerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/dp/cor/Servlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/dp/cor/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/dp/cor/v2/Servlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/Content.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/CommandSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/CopyCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/CommandChain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/InsertCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/DeleteCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/Main.java" />
       </list>
     </option>
   </component>
@@ -239,7 +172,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -252,8 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,21 +220,14 @@
             </path>
             <path>
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zhangchi" type="462c0819:PsiDirectoryNode" />
-              <item name="ASM" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClassTransformerTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ClassPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.zhangchi.ASM.ClassPrinter" />
       <module name="DesignPatterns" />
@@ -404,40 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.zhangchi.spring.v2.Main" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.zhangchi.spring.v2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.zhangchi.visitor.Main" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.zhangchi.visitor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="cn.zhangchi.dp.cor.Main" />
+      <option name="MAIN_CLASS_NAME" value="cn.zhangchi.Command.Main" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.zhangchi.dp.cor.*" />
+          <option name="PATTERN" value="cn.zhangchi.Command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -458,21 +354,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Servlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.zhangchi.dp.cor.v2.Servlet" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.zhangchi.dp.cor.v2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Main (6)" />
       <item itemvalue="Application.ClassPrinter" />
       <item itemvalue="Application.ClassWriteTest" />
       <item itemvalue="Application.ClassTransformerTest" />
+      <item itemvalue="Application.Servlet" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Servlet" />
         <item itemvalue="Application.ClassTransformerTest" />
         <item itemvalue="Application.ClassWriteTest" />
         <item itemvalue="Application.ClassPrinter" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (6)" />
       </list>
     </recent_temporary>
   </component>
@@ -499,7 +408,8 @@
       <workItem from="1558504471117" duration="2867000" />
       <workItem from="1558583856221" duration="15283000" />
       <workItem from="1558657096647" duration="3233000" />
-      <workItem from="1558847932548" duration="8171000" />
+      <workItem from="1558847932548" duration="9326000" />
+      <workItem from="1558923719511" duration="4399000" />
     </task>
     <task id="LOCAL-00001" summary="添加策略模式样例">
       <created>1558427703838</created>
@@ -536,17 +446,23 @@
       <option name="project" value="LOCAL" />
       <updated>1558619921037</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加Visitor模式及其在ASM中的应用，以及ASM中如何创建代理">
+      <created>1558857237261</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558857237261</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49688000" />
+    <option name="totallyTimeSpent" value="55242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497307" visible="true" weight="0.28540772" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.497307" visible="true" weight="0.28898427" />
       <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.26037195" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -584,88 +500,10 @@
     <MESSAGE value="spring的bean工厂开头" />
     <MESSAGE value="观察者模式、组合模式、享元模式" />
     <MESSAGE value="代理模式、Spring的AOP特性" />
-    <option name="LAST_COMMIT_MESSAGE" value="代理模式、Spring的AOP特性" />
+    <MESSAGE value="添加Visitor模式及其在ASM中的应用，以及ASM中如何创建代理" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加Visitor模式及其在ASM中的应用，以及ASM中如何创建代理" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Observer/v4.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Observer/v2/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Observer/v4/Observer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Observer/v3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="33" selection-start-line="24" selection-end-line="33" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Observer/v4/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="830">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/flyweight/BulletPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="44" column="74" selection-start-line="44" selection-start-column="74" selection-end-line="44" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/flyweight/TestString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/proxy/v3.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/proxy/v2/Tank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding>
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/proxy/v3/Tank.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -783,17 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="2993" column="44" selection-start-line="2993" selection-start-column="44" selection-end-line="2993" selection-end-column="44" />
-          <folding>
-            <element signature="e#117893#117894#0" expanded="true" />
-            <element signature="e#117955#117956#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/iterator/v1/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -883,47 +710,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/visitor/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassVisitor.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
-          <folding>
-            <element signature="class#Cpu#0" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="class#Memory#0" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="class#Board#0" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#732#733#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#922#923#0" expanded="true" />
-            <element signature="e#955#956#0" expanded="true" />
-            <element signature="e#1030#1031#0" expanded="true" />
-            <element signature="e#1065#1066#0" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1172#1173#0" expanded="true" />
-            <element signature="class#CorpVisitor#0" />
-            <element signature="e#1301#1302#0" expanded="true" />
-            <element signature="e#1344#1345#0" expanded="true" />
-            <element signature="e#1409#1410#0" expanded="true" />
-            <element signature="e#1444#1445#0" expanded="true" />
-            <element signature="e#1518#1519#0" expanded="true" />
-            <element signature="e#1552#1553#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="169">
+          <caret line="641" column="15" selection-start-line="641" selection-start-column="15" selection-end-line="641" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassVisitor.java">
+    <entry file="file://$PROJECT_DIR$/cn/zhangchi/temp/Tank_0.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/visitor/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="459">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+          <folding>
+            <element signature="class#Cpu#0" />
+            <element signature="class#Memory#0" />
+            <element signature="class#Board#0" />
+            <element signature="class#CorpVisitor#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -931,16 +738,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#111#112#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="340">
           <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -951,16 +754,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="641" column="15" selection-start-line="641" selection-start-column="15" selection-end-line="641" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassWriteTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
+        <state relative-caret-position="425">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -968,11 +764,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cn/zhangchi/temp/Tank_0.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassTransformerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="816">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
-            <element signature="e#0#253#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/TimeProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -983,7 +791,7 @@
           <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
           <folding>
             <element signature="e#68#69#0" expanded="true" />
-            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#115#116#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -994,25 +802,97 @@
           <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
           <folding>
             <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/ClassTransformerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/dp/cor/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="376">
+          <caret line="75" column="18" lean-forward="true" selection-start-line="75" selection-start-column="18" selection-end-line="75" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1674" column="34" selection-start-line="1674" selection-start-column="34" selection-end-line="1674" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="2238" column="23" selection-start-line="2238" selection-start-column="23" selection-end-line="2238" selection-end-column="23" />
+          <folding>
+            <element signature="e#117893#117894#0" expanded="true" />
+            <element signature="e#117955#117956#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/dp/cor/v2/Servlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="63" column="42" lean-forward="true" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#Request#0" />
+            <element signature="class#Response#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/CommandChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/ASM/TimeProxy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/CopyCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        <state relative-caret-position="323">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/InsertCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/DeleteCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/zhangchi/Command/Content.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -1066,12 +946,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>DesignPatterns</last-edited>
+          <last-edited>Spring|DesignPatterns</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
